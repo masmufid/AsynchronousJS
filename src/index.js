@@ -5,6 +5,7 @@ document.getElementById("app").innerHTML = `
 <div>
   Contoh asynchronous<br>
   Klik di sini <button id="button">Klik</button>
+  <p>Contoh perubahan</p>
   </div>
 `;
 function getPromise(url) {
