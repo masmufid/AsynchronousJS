@@ -1,2 +1,0 @@
-# AsynchronousJS
-Created with CodeSandbox
